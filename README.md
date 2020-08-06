@@ -1,6 +1,6 @@
 ## About
 
-### IN FREEBASD just 
+### IN FreeBSD just 
 
 cp this png file into /usr/local/share/slim/themes/default
 
