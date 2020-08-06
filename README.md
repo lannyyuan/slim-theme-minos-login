@@ -1,5 +1,10 @@
 ## About
 
+### IN FREEBASD just 
+
+cp this png file into /usr/local/share/slim/themes/default
+
+
 [Slim](http://slim.berlios.de/) is a graphical display manager for the X Window System that can be run independently of any window manager or desktop environment. This is a theme for the minos project.
 
 <p align="center">
